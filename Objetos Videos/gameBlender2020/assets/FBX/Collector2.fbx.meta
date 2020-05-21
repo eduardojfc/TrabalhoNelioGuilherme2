@@ -1,0 +1,283 @@
+fileFormatVersion: 2
+guid: d20a8e117ebd7c24b932d7b38ec12230
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Collector_Armature
+    100004: Collector_Cable
+    100006: Collector_Celular
+    100008: Collector_Celular 1
+    100010: Collector_Celular_end
+    100012: Collector_Charge
+    100014: Collector_Master
+    100016: Collector_Wifi
+    100018: Collector_Armature.001
+    100020: Collector_Cable.001
+    100022: Collector_Celular.001
+    100024: Collector_Celular_end 1
+    100026: Collector_Celular_end_end
+    100028: Collector_Charge.001
+    100030: Collector_Master 1
+    100032: Collector_Wifi.001
+    100034: Collector_Armature.002
+    100036: Collector_Armature.003
+    100038: Collector_Cable.002
+    100040: Collector_Celular 2
+    100042: Collector_Celular 3
+    100044: Collector_Celular 4
+    100046: Collector_Celular.002
+    100048: Collector_Celular_end 2
+    100050: Collector_Celular_end 3
+    100052: Collector_Celular_end_end 1
+    100054: Collector_Celular_end_end 2
+    100056: Collector_Celular_end_end_end
+    100058: Collector_Charge.002
+    100060: Collector_Master 2
+    100062: Collector_Master 3
+    100064: Collector_Wifi.002
+    100066: Armature
+    100068: Armature.001
+    100070: Towe_Rotate_Control
+    100072: Towe_Rotate_Control_end
+    100074: tower_base
+    100076: Tower_Chair
+    100078: tower_chair
+    100080: Tower_Chair_end
+    100082: tower_chargerCable
+    100084: Tower_Desktop
+    100086: tower_desktop
+    100088: Tower_Desktop_end
+    100090: Tower_Master
+    100092: Tower_NoBreak
+    100094: tower_noBreak
+    100096: Tower_NoBreak_end
+    100098: tower_plateBase
+    100100: tower_plateMid
+    100102: tower_plateTip
+    100104: Tower_PowerCable
+    100106: Tower_PowerCable_end
+    100108: Tower_Printer
+    100110: tower_printer
+    100112: Tower_Printer_end
+    100114: Tower_PrinterPlateBase
+    100116: Tower_PrinterPlateBase_end
+    100118: Tower_PrinterPlateMid
+    100120: Tower_PrinterPlateMid_end
+    100122: Tower_PrinterPlateTip
+    100124: Tower_PrinterPlateTip_end
+    100126: Tower_Wifi
+    100128: tower_wifi
+    100130: Tower_Wifi_end
+    400000: //RootNode
+    400002: Collector_Armature
+    400004: Collector_Cable
+    400006: Collector_Celular
+    400008: Collector_Celular 1
+    400010: Collector_Celular_end
+    400012: Collector_Charge
+    400014: Collector_Master
+    400016: Collector_Wifi
+    400018: Collector_Armature.001
+    400020: Collector_Cable.001
+    400022: Collector_Celular.001
+    400024: Collector_Celular_end 1
+    400026: Collector_Celular_end_end
+    400028: Collector_Charge.001
+    400030: Collector_Master 1
+    400032: Collector_Wifi.001
+    400034: Collector_Armature.002
+    400036: Collector_Armature.003
+    400038: Collector_Cable.002
+    400040: Collector_Celular 2
+    400042: Collector_Celular 3
+    400044: Collector_Celular 4
+    400046: Collector_Celular.002
+    400048: Collector_Celular_end 2
+    400050: Collector_Celular_end 3
+    400052: Collector_Celular_end_end 1
+    400054: Collector_Celular_end_end 2
+    400056: Collector_Celular_end_end_end
+    400058: Collector_Charge.002
+    400060: Collector_Master 2
+    400062: Collector_Master 3
+    400064: Collector_Wifi.002
+    400066: Armature
+    400068: Armature.001
+    400070: Towe_Rotate_Control
+    400072: Towe_Rotate_Control_end
+    400074: tower_base
+    400076: Tower_Chair
+    400078: tower_chair
+    400080: Tower_Chair_end
+    400082: tower_chargerCable
+    400084: Tower_Desktop
+    400086: tower_desktop
+    400088: Tower_Desktop_end
+    400090: Tower_Master
+    400092: Tower_NoBreak
+    400094: tower_noBreak
+    400096: Tower_NoBreak_end
+    400098: tower_plateBase
+    400100: tower_plateMid
+    400102: tower_plateTip
+    400104: Tower_PowerCable
+    400106: Tower_PowerCable_end
+    400108: Tower_Printer
+    400110: tower_printer
+    400112: Tower_Printer_end
+    400114: Tower_PrinterPlateBase
+    400116: Tower_PrinterPlateBase_end
+    400118: Tower_PrinterPlateMid
+    400120: Tower_PrinterPlateMid_end
+    400122: Tower_PrinterPlateTip
+    400124: Tower_PrinterPlateTip_end
+    400126: Tower_Wifi
+    400128: tower_wifi
+    400130: Tower_Wifi_end
+    2100000: Colector_Celular
+    2100002: Collector_Celular
+    2100004: Collector_Cable
+    2100006: Collector_Wifi
+    2100008: Colector_Celular.002
+    2100010: Collector_Cable.002
+    2100012: Collector_Celular.002
+    2100014: Collector_Wifi.002
+    2100016: tower_chair
+    2100018: tower_desktop
+    2100020: tower_noBreak
+    2100022: tower_wifi
+    2100024: tower_chargerCable
+    2100026: tower_printer
+    4300000: Collector_Celular
+    4300002: Collector_Charge
+    4300004: Collector_Cable
+    4300006: Collector_Wifi
+    4300008: Collector_Cable.001
+    4300010: Collector_Wifi.001
+    4300012: Collector_Celular.001
+    4300014: Collector_Charge.001
+    4300016: Collector_Celular.002
+    4300018: Collector_Cable.002
+    4300020: Collector_Charge.002
+    4300022: Collector_Wifi.002
+    4300024: tower_base
+    4300026: tower_chair
+    4300028: tower_desktop
+    4300030: tower_noBreak
+    4300032: tower_wifi
+    4300034: tower_chargerCable
+    4300036: tower_printer
+    4300038: tower_plateTip
+    4300040: tower_plateBase
+    4300042: tower_plateMid
+    9500000: //RootNode
+    13700000: Collector_Cable
+    13700002: Collector_Celular
+    13700004: Collector_Charge
+    13700006: Collector_Wifi
+    13700008: Collector_Cable.001
+    13700010: Collector_Celular.001
+    13700012: Collector_Charge.001
+    13700014: Collector_Wifi.001
+    13700016: Collector_Cable.002
+    13700018: Collector_Celular.002
+    13700020: Collector_Charge.002
+    13700022: Collector_Wifi.002
+    13700024: tower_base
+    13700026: tower_chair
+    13700028: tower_chargerCable
+    13700030: tower_desktop
+    13700032: tower_noBreak
+    13700034: tower_plateBase
+    13700036: tower_plateMid
+    13700038: tower_plateTip
+    13700040: tower_printer
+    13700042: tower_wifi
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
